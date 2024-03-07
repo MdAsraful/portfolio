@@ -166,6 +166,12 @@ ul li{
     font-size: 35px;
     font-weight: 700;
 }
+.my-edu{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
 .son-of-resume{
     display: flex;
     justify-content: space-between;
@@ -176,4 +182,28 @@ ul li{
     font-size: 25px;
     font-weight: 700;
     color: #474747;
+    margin-bottom: 10px;
+}
+.resume-sub-sub{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+}
+.resume-para{
+    color: #757575;
+    font-size: 16px;
+    margin-top: 20px;
+}
+hr{
+    width: 90%;
+    background: #D1D1D1;
+    margin: 30px 0px;
+}
+/* .b{
+    background-color: aqua;
+    text-align: center;
+} */
+.d{
+    margin-top: 50px;
+    text-align: center;
 }
